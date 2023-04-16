@@ -1,0 +1,5 @@
+2023/04/15-22:36:09.661 450c Reusing MANIFEST C:\Users\Alihdaya\AppData\Local\Temp\flutter_tools.c9113f83\flutter_tools_chrome_device.4e44da57\Default\IndexedDB\http_localhost_56131.indexeddb.leveldb/MANIFEST-000001
+2023/04/15-22:36:09.662 450c Recovering log #329
+2023/04/15-22:36:09.662 450c Reusing old log C:\Users\Alihdaya\AppData\Local\Temp\flutter_tools.c9113f83\flutter_tools_chrome_device.4e44da57\Default\IndexedDB\http_localhost_56131.indexeddb.leveldb/000329.log 
+2023/04/15-22:36:09.662 450c Delete type=2 #327
+2023/04/15-22:36:09.667 41e0 Manual compaction at level-0 from '\x00j\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00k\x00\x00\x00' @ 0 : 0; will stop at (end)
