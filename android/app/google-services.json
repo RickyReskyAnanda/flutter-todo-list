@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "34441273632",
+    "project_id": "flutter-d2e96",
+    "storage_bucket": "flutter-d2e96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34441273632:android:5e94647de6708e8076b745",
+        "android_client_info": {
+          "package_name": "com.example.learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34441273632-offgkun51esi9pde7r7bb22l7dlff3qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBofcQrDWaDwuIahcBe52yFZEpqBr45RnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34441273632-2ck80d7ghstvfi0cpbq5mckm2odd4dag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "34441273632-s4mqs37jeve7jtlqtdchgeqfd34b9md2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.learning"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34441273632:android:045fa3926177749e76b745",
+        "android_client_info": {
+          "package_name": "res.ricky.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34441273632-f2l2hudtl19iua8r1h1knvg7t45hsvqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "res.ricky.dev",
+            "certificate_hash": "dd77143f053c29cd85b0e71c60e7f1d7a2285062"
+          }
+        },
+        {
+          "client_id": "34441273632-offgkun51esi9pde7r7bb22l7dlff3qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBofcQrDWaDwuIahcBe52yFZEpqBr45RnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34441273632-2ck80d7ghstvfi0cpbq5mckm2odd4dag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "34441273632-s4mqs37jeve7jtlqtdchgeqfd34b9md2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.learning"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
